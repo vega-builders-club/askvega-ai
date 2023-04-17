@@ -1,0 +1,2 @@
+source ./askvega-config
+venv/bin/python ./app/indexer.py

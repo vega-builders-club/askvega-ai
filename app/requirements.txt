@@ -1,0 +1,16 @@
+# aiofiles
+# black
+bs4
+faiss-cpu
+# isort
+langchain
+libmagic
+openai
+pydantic
+starlette
+selenium
+unstructured
+unstructured[local-inference]
+uvicorn
+websockets
+webdriver_manager
