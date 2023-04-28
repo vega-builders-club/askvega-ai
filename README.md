@@ -13,9 +13,6 @@
     <a href="https://vega.xyz"><strong> Explore More About VegaProtocol »</strong></a>
     <br />
     <br />
-    <a href="#">Live Demo</a>
-    ·
-    <a href="https://vega.xyz/discord">Discord</a>
   </p>
 </div>
 
